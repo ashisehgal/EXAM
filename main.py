@@ -1,7 +1,7 @@
 from sub import *
 from add import *
-from mult import *
-from div import *
+from multiply import *
+from division import *
 a=int(input ("Enter the number"))
 b=int(input ("Enter the number"))
 choice = int(input("ENTER A CHOICE \n 1. Addition \n 2. Subtration \n 3. Division \n 4 Multiplication"))
